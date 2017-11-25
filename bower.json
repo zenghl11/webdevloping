@@ -1,0 +1,17 @@
+{
+  "name": "webdeveloping",
+  "description": "des_bower",
+  "main": "test",
+  "authors": [
+    "zenghl"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
